@@ -1,0 +1,77 @@
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1440px;
+    background-color: whitesmoke;
+}
+.title-cv{
+    text-align: center;
+    margin: 30px 0;
+    font-size: 36px;
+}
+.information-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about-me{
+    font-size: 19px;
+}
+.about-me p:first-child{
+    margin-left: 20px;
+    font-weight: bolder;
+}
+.color-image{
+    width: 200px;
+    height: 250px;
+    background-color: yellowgreen;
+}
+.space-top{
+    margin: 5em;
+}
+
+/*  */
+
+.content-box{
+    width: 900px;
+    margin: 0 auto;
+}
+.description-about-me{
+    font-size: 18px;
+    margin: 0 3rem;
+}
+.box-color-1{
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+}
+.box-color-2{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+.box-color-3{
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+}
+.title-paragraf{
+    display: flex;
+    align-items: center;
+}
+.title-paragraf p{
+    margin-left: 15px;
+    font-size: 24px;
+}
+.list li{
+    font-size: 18px;
+    margin: 5px;
+}
+
+/*  */
+
+footer{
+    margin: 50px;
+    text-align: center;
+}
